@@ -1,0 +1,30 @@
+body{
+background-color: #ddd;
+font-family: 'Rubik', sans-serif;
+}
+#allbar{
+    border-radius: 10px;
+	width: 100%;
+	background-color: #a1a1a1;
+}
+#normalbar{
+	border-radius: 4px;
+	width: 0%;
+	height: 30px;
+	background-color: #333;
+	text-align: center;
+    line-height: 30px;
+  	color: white;
+}
+#hello{
+	padding: 27px 47px;
+	background-color: rgb(0, 0, 0, 0.7);
+	color: rgb(255, 255, 255, 0.5);
+	border: none;
+	cursor: pointer;
+	transition: 200ms all linear;
+}
+#hello:hover{
+	background-color: rgb(0, 0, 0, 1);
+	color: rgb(255, 255, 255, 1);
+}
