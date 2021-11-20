@@ -1,6 +1,6 @@
-var lookid = document.getElementById("allbar");
+let lookid = document.getElementById("allbar");
 
-var kralkeazon = 0;
+let kralkeazon = 0;
 
 
 function keazongorun(){
